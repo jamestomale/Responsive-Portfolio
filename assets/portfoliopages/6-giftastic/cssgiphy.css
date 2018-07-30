@@ -1,0 +1,47 @@
+body {
+    font-family: 'Cabin', sans-serif;
+}
+
+h1,h2,h3 {
+    font-family: 'Arial Black', Gadget, sans-serif;
+}
+
+h1 {
+    color: rgb(204,29,0)
+}
+
+
+#search-btn {
+    margin-top: 10px;
+}
+
+img.gifImg {
+    max-width: 300px;
+    max-height: 150px;
+    margin: 5px;
+}
+
+.gif-div {
+    min-height: 215px;
+    float: left;
+}
+
+p.rating {
+    text-transform: uppercase;
+    padding: 0 0 0 10px;
+}
+
+div#giphy-area {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+button#search-btn {
+    font-size: 20px;
+}
+
+.jumbotron {
+    background: url('giphyimagemaker.gif');
+    background-size: cover;
+    color: #fff;
+}
